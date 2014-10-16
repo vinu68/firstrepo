@@ -1,5 +1,7 @@
 <?php
 
+echo "hello";
+
 function subtract( $s1,  $s2) {
     $val=0;
     if($s1 <=0 && $s2 <=0)
